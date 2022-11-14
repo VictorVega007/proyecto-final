@@ -1,0 +1,10 @@
+[2022-11-14T09:05:47.734] [ERROR] error - Error: Error while retrieving read getById function. The id undefined does not exist
+    at CartsDAOMongoDB.getById (/Users/victorvega/EntregaFinal/src/db/containers/mongoDB.container.js:35:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async getItemById (/Users/victorvega/EntregaFinal/src/services/cart.service.js:33:18)
+    at async finishPursache (/Users/victorvega/EntregaFinal/src/controllers/cart.controller.js:189:48)
+[2022-11-14T09:07:03.174] [ERROR] error - Error: Error while retrieving read getById function. The id undefined does not exist
+    at CartsDAOMongoDB.getById (/Users/victorvega/EntregaFinal/src/db/containers/mongoDB.container.js:35:19)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at async getItemById (/Users/victorvega/EntregaFinal/src/services/cart.service.js:33:18)
+    at async finishPursache (/Users/victorvega/EntregaFinal/src/controllers/cart.controller.js:189:48)
