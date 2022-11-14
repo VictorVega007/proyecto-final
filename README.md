@@ -57,7 +57,7 @@ npm start
 
 El deploy de la app se realizó en Render. El enlace del deploy es el siguiente:
 
-[!DEPLOY-URL][Deploy-url]
+[DEPLOY-URL][Deploy-url]
 ## Autor
 Elaborado por **Victor Vega**
 
