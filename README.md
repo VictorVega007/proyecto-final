@@ -52,6 +52,12 @@ npm start
 - La misma fórmula de prueba se deberá implementar cuando se realice el Put o modificación de algún elemento de la base de datos. 
 
 - Para los otros tipos de rutas se podrá probar por POSTMAN o en el navegador una vez que se ingrese a la app a través del Login respectivo. 
+
+## Deploy
+
+El deploy de la app se realizó en Render. El enlace del deploy es el siguiente:
+
+[!DEPLOY-URL][Deploy-url]
 ## Autor
 Elaborado por **Victor Vega**
 
@@ -65,3 +71,4 @@ Elaborado por **Victor Vega**
 [Node-url]: https://nodejs.org/en/
 [Express.js]: https://img.shields.io/badge/Express-35495E?style=for-the-badge&logo=express&logoColor=4FC08D
 [Express-url]: https://expressjs.com/
+[Deploy-url]: https://proyecto-final-cwp6.onrender.com/users/login
