@@ -5,19 +5,19 @@ dotenv.config()
 const PORT = process.env.PORT || 8080
 
 const userOk = {
-    username: 'victorvega.v@gmail.com',
+    username: 'victor@gmail.com',
     password: 'Victor1234'
 }
 
 const userNok = {
-    username: 'victorvega.v@gmail.com',
+    username: 'victor@gmail.com',
     password: 'Victor123'
 }
 
 const newUser = {
     nombre: 'Victor',
     apellido: 'Vega',
-    username: 'victorvega',
+    username: 'victor@gmail.com',
     password: 'VictorV1234',
     edad: 36,
     direccion: 'Avenida Corriente 1324',

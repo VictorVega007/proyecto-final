@@ -4,7 +4,7 @@ const { testLogin } = require('./axiosUserRouter')
 describe('Test User Router', () => {
     it('Login test', async () => {
         const userOk = {
-            username: 'victorvega.v@gmail.com',
+            username: 'victor@gmail.com',
             password: 'Victor1234'
         }
         const resp = await testLogin(userOk)
