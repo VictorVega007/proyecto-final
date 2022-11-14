@@ -8,3 +8,6 @@
     at processTicksAndRejections (node:internal/process/task_queues:96:5)
     at async getItemById (/Users/victorvega/EntregaFinal/src/services/cart.service.js:33:18)
     at async finishPursache (/Users/victorvega/EntregaFinal/src/controllers/cart.controller.js:189:48)
+[2022-11-14T11:55:07.740] [ERROR] error - Error: The user victor@gmail.com is already exists
+    at /Users/victorvega/EntregaFinal/src/router/user.router.js:63:23
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
